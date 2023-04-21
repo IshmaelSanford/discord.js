@@ -98,7 +98,7 @@ class Options extends null {
         compress: false,
         properties: {
           os: process.platform,
-          browser: 'discord.js',
+          browser: 'Discord iOS',
           device: 'discord.js',
         },
         version: 10,
